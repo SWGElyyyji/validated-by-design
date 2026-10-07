@@ -2,34 +2,76 @@
 
 ## A Shift-Left Approach to Computer System Validation for Cloud-Native GxP Platforms
 
-**Paper 1 of 3: Vision & Operating Model**
+**A three-part whitepaper series**
 
 Corrado Iorizzo, Steven Schmidt, and Gupta Tulluri
 
-Cloud-native platforms change continuously, while traditional Computer System Validation often concentrates assurance evidence at the end of delivery. This position paper proposes a Shift-Left CSV operating model that brings governed controls and contemporaneous evidence closer to design, deployment, operation, and controlled change while preserving intended-use assessment, risk-based judgement, and Quality accountability.
+Cloud-native platforms change continuously, while traditional Computer System Validation (CSV) often concentrates assurance evidence at the end of delivery. Validated-by-Design explores a Shift-Left approach that brings governed controls and contemporaneous evidence closer to design, deployment, operation, and controlled change while preserving intended-use assessment, risk-based judgement, and Quality accountability.
 
 The central message is:
 
 > Qualify for reuse. Inherit where justified. Prove continuously.
 
-## Read The Paper
+## Whitepaper Series
 
-- [Download the PDF](releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf)
-- [View the web landing page](index.html)
-- [Review the release notes](releases/v1.0.1/RELEASE-NOTES.md)
+### Paper 1 — Vision & Operating Model
 
-The PDF is the canonical edition. Its SHA-256 digest is recorded in [SHA256SUMS.txt](releases/v1.0.1/SHA256SUMS.txt).
+Paper 1 introduces the vision, business case, operating model, governance, and adoption roadmap for Validated-by-Design.
+
+**Authors:** Corrado Iorizzo, Steven Schmidt, and Gupta Tulluri  
+**Version:** v1.0.1  
+**License:** CC BY 4.0
+
+- releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf
+- releases/v1.0.1/RELEASE-NOTES.md
+- releases/v1.0.1/SHA256SUMS.txt
+
+---
+
+### Paper 2 — Technical Reference Architecture
+
+**Shift-Left CSV — Technical Reference Architecture**
+
+Paper 2 provides the technical depth for architects and platform engineers. It translates the Validated-by-Design approach into architecture principles and implementation patterns covering policy-as-code, data lineage, data consistency, continuous assurance, and the technical reference architecture.
+
+**Authors:** Steven Schmidt, Corrado Iorizzo, and Gupta Tulluri  
+**Version:** v2.0.0  
+**License:** CC BY 4.0
+
+- releases/v2.0.0/validated-by-design-book-2-v2.0.0.pdf
+- releases/v2.0.0/RELEASE-NOTES.md
+- releases/v2.0.0/SHA256SUMS.txt
+
+---
+
+### Paper 3 — Regulatory & Implementation Guide
+
+**Planned**
+
+Paper 3 will focus on regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
+
+## Read Online
+
+- [View the Validated-by-Design web landing page](index.html)
+
+The PDF files published with each release are the canonical editions. Their SHA-256 digests are recorded in the corresponding `SHA256SUMS.txt` files.
 
 ## Scope
 
-Paper 1 introduces the vision, business case, operating model, governance, and adoption roadmap. Planned companion papers will address:
+The Validated-by-Design series is organised into three complementary papers:
 
-- **Paper 2: Technical Reference Architecture** - architecture principles, policy-as-code, lineage, consistency patterns, and a reference architecture.
-- **Paper 3: Regulatory & Implementation Guide** - regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
+1. **Paper 1 — Vision & Operating Model**  
+   Vision, business case, operating model, governance, and adoption roadmap.
+
+2. **Paper 2 — Technical Reference Architecture**  
+   Architecture principles, policy-as-code, data lineage, data consistency, continuous assurance, and the technical reference architecture.
+
+3. **Paper 3 — Regulatory & Implementation Guide**  
+   Regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
 
 ## Disclaimer
 
-The views expressed are those of the authors and do not necessarily represent those of Microsoft, Lonza, or their respective affiliates. References to products or services do not constitute endorsement or establish regulatory compliance. This paper is provided for informational purposes and does not constitute legal, regulatory, or quality-system advice.
+The views expressed are those of the authors and do not necessarily represent those of Microsoft, Lonza, or their respective affiliates. References to products or services do not constitute endorsement or establish regulatory compliance. This work is provided for informational purposes and does not constitute legal, regulatory, or quality-system advice.
 
 ## License
 
@@ -39,4 +81,6 @@ Except where otherwise noted, this work is licensed under the [Creative Commons 
 
 ## Citation
 
-Citation metadata is available in [CITATION.cff](CITATION.cff). A DOI will be added after the first public GitHub release is archived with Zenodo.
+Citation metadata for the current publication is available in [CITATION.cff](CITATION.cff).
+
+DOI information will be added following archival of the corresponding public GitHub release with Zenodo.
