@@ -22,9 +22,13 @@ Paper 1 introduces the vision, business case, operating model, governance, and a
 **Version:** v1.0.1  
 **License:** CC BY 4.0
 
+### Read Paper 1
+
 - releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf
 - releases/v1.0.1/RELEASE-NOTES.md
 - releases/v1.0.1/SHA256SUMS.txt
+
+The PDF is the canonical edition of Paper 1.
 
 ---
 
@@ -38,9 +42,13 @@ Paper 2 provides the technical depth for architects and platform engineers. It t
 **Version:** v2.0.0  
 **License:** CC BY 4.0
 
+### Read Paper 2
+
 - releases/v2.0.0/validated-by-design-book-2-v2.0.0.pdf
 - releases/v2.0.0/RELEASE-NOTES.md
 - releases/v2.0.0/SHA256SUMS.txt
+
+The PDF is the canonical edition of Paper 2.
 
 ---
 
@@ -50,11 +58,11 @@ Paper 2 provides the technical depth for architects and platform engineers. It t
 
 Paper 3 will focus on regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
 
+---
+
 ## Read Online
 
 - [View the Validated-by-Design web landing page](index.html)
-
-The PDF files published with each release are the canonical editions. Their SHA-256 digests are recorded in the corresponding `SHA256SUMS.txt` files.
 
 ## Scope
 
@@ -68,6 +76,15 @@ The Validated-by-Design series is organised into three complementary papers:
 
 3. **Paper 3 — Regulatory & Implementation Guide**  
    Regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
+
+## Publication Integrity
+
+The PDF files published with each release are the canonical editions.
+
+SHA-256 digests are provided for each published paper to allow verification of the integrity of the corresponding PDF:
+
+- releases/v1.0.1/SHA256SUMS.txt
+- releases/v2.0.0/SHA256SUMS.txt
 
 ## Disclaimer
 
