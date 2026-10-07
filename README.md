@@ -24,7 +24,7 @@ Paper 1 introduces the vision, business case, operating model, governance, and a
 
 ### Read Paper 1
 
-- releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf
+- **releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf**
 - releases/v1.0.1/RELEASE-NOTES.md
 - releases/v1.0.1/SHA256SUMS.txt
 
@@ -44,7 +44,7 @@ Paper 2 provides the technical depth for architects and platform engineers. It t
 
 ### Read Paper 2
 
-- releases/v2.0.0/validated-by-design-book-2-v2.0.0.pdf
+- **releases/v2.0.0/validated-by-design-book-2-v2.0.0.pdf**
 - releases/v2.0.0/RELEASE-NOTES.md
 - releases/v2.0.0/SHA256SUMS.txt
 
