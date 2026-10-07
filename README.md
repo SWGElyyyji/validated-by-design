@@ -12,6 +12,8 @@ The central message is:
 
 > Qualify for reuse. Inherit where justified. Prove continuously.
 
+---
+
 ## Whitepaper Series
 
 ### Paper 1 — Vision & Operating Model
@@ -22,10 +24,9 @@ Paper 1 introduces the vision, business case, operating model, governance, and a
 **Version:** v1.0.1  
 **License:** CC BY 4.0
 
-### Read Paper 1
+#### Read Paper 1
 
--- **[Download Paper 1 —idated-by-design-book-1-v1.0.1.pdf**
-- [View Paper 1 Release Notes](releases/v1.0.1/1.0.1/SHA256SUMS.txt
+[Download Paper 1 - Vision & Operating Model](releases/v1.0.1/validated-by-design-book-1-v1.0.1.pdf)
 
 The PDF is the canonical edition of Paper 1.
 
@@ -41,10 +42,9 @@ Paper 2 provides the technical depth for architects and platform engineers. It t
 **Version:** v2.0.0  
 **License:** CC BY 4.0
 
-### Read Paper 2
+#### Read Paper 2
 
-- - **[Download Paper 2 — Technical Reference Architecture](releasesases/v2.0.0/RELEASE-NOTES.md
-- [View Paper 2 SHA-256 Checksum](releases
+[Download Paper 2 - Technical Reference Architecture](releases/v2.0.0/validated-by-design-book-2-v2.0.0.pdf)
 
 The PDF is the canonical edition of Paper 2.
 
@@ -60,7 +60,9 @@ Paper 3 will focus on regulatory mapping, implementation and inspection readines
 
 ## Read Online
 
-- [View the Validated-by-Design web landing page](index.html)
+<a href="index.html">View the Validated-by-Design web landing page</a>
+
+---
 
 ## Scope
 
@@ -75,27 +77,34 @@ The Validated-by-Design series is organised into three complementary papers:
 3. **Paper 3 — Regulatory & Implementation Guide**  
    Regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
 
+---
+
 ## Publication Integrity
 
-The PDF files published with each release are the canonical editions.
+The PDF files published with each release are the canonical editions. SHA-256 digests are maintained with the corresponding release packages to support integrity verification.
 
-SHA-256 digests are provided for each published paper to allow verification of the integrity of the corresponding PDF:
-
-- releases/v1.0.1/SHA256SUMS.txt
-- releases/v2.0.0/SHA256SUMS.txt
+---
 
 ## Disclaimer
 
-The views expressed are those of the authors and do not necessarily represent those of Microsoft, Lonza, or their respective affiliates. References to products or services do not constitute endorsement or establish regulatory compliance. This work is provided for informational purposes and does not constitute legal, regulatory, or quality-system advice.
+The views expressed are those of the authors and do not necessarily represent those of Microsoft, Lonza, or their respective affiliates. References to products or services do not constitute endorsement or establish regulatory compliance.
+
+This work is provided for informational purposes and does not constitute legal, regulatory, or quality-system advice.
+
+---
 
 ## License
 
 Copyright (c) 2026 Corrado Iorizzo, Steven Schmidt, and Gupta Tulluri.
 
-Except where otherwise noted, this work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). When reusing the work, credit the authors, link to the license, and indicate whether changes were made.
+Except where otherwise noted, this work is licensed under the Creative Commons Attribution 4.0 International License.
+
+When reusing the work, credit the authors, link to the license, and indicate whether changes were made.
+
+---
 
 ## Citation
 
-Citation metadata for the current publication is available in [CITATION.cff](CITATION.cff).
+Citation metadata for the current publication is available in `CITATION.cff`.
 
 DOI information will be added following archival of the corresponding public GitHub release with Zenodo.
