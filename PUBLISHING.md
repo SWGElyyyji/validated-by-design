@@ -34,6 +34,7 @@ releases/
 ├── v1.0.0/
 ├── v1.0.1/
 └── v2.0.0/
+└── v3.0.0/
 ```
 
 Each release directory must contain:

@@ -1,6 +1,6 @@
 {
-  "title": "Shift-Left CSV — Technical Reference Architecture",
-  "description": "Paper 2 of 3 of the Validated-by-Design series: A Shift-Left Approach to Computer System Validation for Cloud-Native GxP Platforms. This paper provides the technical depth for architects and platform engineers, covering architecture principles, policy-as-code, data lineage and consistency, and the technical reference architecture.",
+  "title": "Shift-Left CSV — Regulatory & Implementation Guide",
+  "description": "Paper 3 of 3 of the Validated-by-Design series: A Shift-Left Approach to Computer System Validation for Cloud-Native GxP Platforms.",
   "upload_type": "publication",
   "publication_type": "report",
   "creators": [
@@ -23,8 +23,9 @@
     "cloud-native",
     "Validated-by-Design",
     "Shift-Left",
-    "technical reference architecture",
-    "continuous assurance",
-    "policy-as-code"
+    "regulatory",
+    "implementation",
+    "regulatory compliance",
+    "continuous assurance"
   ]
 }

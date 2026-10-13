@@ -52,9 +52,17 @@ The PDF is the canonical edition of Paper 2.
 
 ### Paper 3 — Regulatory & Implementation Guide
 
-**Planned**
+**Shift-Left CSV — Regulatory & Implementation Guide**
 
-Paper 3 will focus on regulatory mapping, implementation and inspection readiness, AI workloads, risks, and mitigations.
+Paper 3 completes the Validated-by-Design whitepaper series with regulatory and implementation guidance for cloud-native GxP platforms.
+
+**Authors:** Steven Schmidt, Gupta Tulluri, Corrado Iorizzo     
+**Version:** v3.0.0  
+**License:** CC BY 4.0
+
+[**Download Paper 3 - Regulatory & Implementation Guide**](releases/v3.0.0/validated-by-design-book-3-v3.0.0.pdf)
+
+The PDF is the canonical edition of Paper 3.
 
 ---
 

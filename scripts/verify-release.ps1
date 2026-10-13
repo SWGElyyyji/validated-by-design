@@ -17,6 +17,11 @@ $releases = @(
         Version = 'v2.0.0'
         Pdf = 'validated-by-design-book-2-v2.0.0.pdf'
     }
+    @{
+        Book = '3'
+        Version = 'v3.0.0'
+        Pdf = 'validated-by-design-book-3-v3.0.0.pdf'
+    }
 )
 
 $requiredRootFiles = @(
@@ -321,6 +326,9 @@ Write-Host ' - Book 1 v1.0.1' `
     -ForegroundColor Green
 
 Write-Host ' - Book 2 v2.0.0' `
+    -ForegroundColor Green
+
+Write-Host ' - Book 3 v3.0.0' `
     -ForegroundColor Green
 
 exit 0
